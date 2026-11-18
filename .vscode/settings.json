@@ -1,0 +1,10 @@
+{
+    "workbench.activityBar.autoHide": false,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.view.showQuietly": {
+        "workbench.panel.output": true
+    },
+    "zenMode.centerLayout": true,
+    "zenMode.fullScreen": false,
+    "zenMode.hideStatusBar": false
+}
